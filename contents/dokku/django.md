@@ -2,7 +2,7 @@
 
 In this document I will report on some important steps to get and maintain your Django project in production using Dokku.
 
-If you want to jump to the finished project, [click here.](https://dokku.com/)
+If you want to jump to the finished project, [click here.](https://github.com/Mateus-Brito/smallurl)
 
 ## Create a new user
 
