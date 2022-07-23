@@ -45,7 +45,7 @@ sudo dokku postgres:create dokku-postgis --image "mdillon/postgis" --image-versi
 dokku postgres:link dokku-postgis django-dokku
 ```
 
-## Gere sua chave SSH localmente
+## Generate your SSH key locally
 
 If you already have an SSH key, skip the command below.
 ```bash
